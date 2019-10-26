@@ -1,15 +1,11 @@
-# COMP 90054
-Code adapted by Nir Lipovetzky and Guang Hu.
-# CS188
-## License Information
+# UoM COMP90054 AI Planning for Autonomy - Pacman Project Template
 
-Licensing Information:  You are free to use or extend these projects for
-educational purposes provided that (1) you do not distribute or publish
-solutions, (2) you retain this notice, and (3) you provide clear
-attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
+This repository is used by students to fork their own repository to work for the team submission.
 
-Attribution Information: The Pacman AI projects were developed at UC Berkeley.
-The core projects and autograders were primarily created by John DeNero
-(denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
-Student side autograding was added by Brad Miller, Nick Hay, and
-Pieter Abbeel (pabbeel@cs.berkeley.edu).
+You must FORK **privately** this repository and change slightly the name to **comp90054-pacman-\<your student number\>**
+
+Read [this documentation about the code of the contest](contest.md)
+
+Please follow the instructions in LMS. An [initial copy of the PDF](instructions.pdf) can be found in this repo.
+
+Hope you enjoy this project!
